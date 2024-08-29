@@ -34,6 +34,10 @@ cd dorm-defender
 npm install
 ```
 
+### Setup a MongoDB database
+
+You can head over to [MongoDB](https://mongodb.com) and setup a database to use with the project. Add the Mongo URI to the backend API  `backend/server.js`.
+
 ### Run the Express server:
 ```
 cd backend
